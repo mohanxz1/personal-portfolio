@@ -1,5 +1,5 @@
 # My Personal Portfolio Website
-### Showcasing my Web Development Skills and Projects
+### Showcasing Mohan Ram Majhi's Web Development Skills and Projects
 
 This portfolio website, belonging to Mohan Ram Majhi, is a dynamic and interactive online presence designed to showcase his skills and information. It features a range of modern web functionalities to enhance user experience.
 
@@ -25,7 +25,6 @@ The website is structured with distinct sections for "About Me," "Education," "S
 
 ## Live Demo
 Explore the live portfolio here: [https://your-portfolio-url.netlify.app](https://your-portfolio-url.netlify.app)
-*(Remember to replace `https://your-portfolio-url.netlify.app` with the actual URL of your published website from Netlify, Vercel, or GitHub Pages)*
 
 ## Technologies Used
 * HTML5
@@ -38,9 +37,8 @@ To run this project locally:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/personal-portfolio.git](https://github.com/yourusername/personal-portfolio.git)
+    git clone [https://github.com/mohanxz1/personal-portfolio.git](https://github.com/mohanxz1/personal-portfolio.git)
     ```
-    *(Replace `yourusername` and `personal-portfolio` with your actual GitHub username and repository name)*
 2.  Navigate to the project directory:
     ```bash
     cd personal-portfolio
@@ -53,10 +51,10 @@ To run this project locally:
 * Implementing a blog post filtering/search functionality.
 
 ## Contact
-Feel free to reach out to me:
+Feel free to reach out to Mohan Ram Majhi:
 
 * Email: [reachout.mohan9@gmail.com](mailto:reachout.mohan9@gmail.com)
-* LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile-url) *(Replace with your actual LinkedIn profile URL)*
+* LinkedIn: [Mohan Ram Majhi's LinkedIn Profile](https://www.linkedin.com/in/your-profile-url) *(Replace with your actual LinkedIn profile URL)*
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
